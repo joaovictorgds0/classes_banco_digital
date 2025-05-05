@@ -47,3 +47,6 @@ Este é um projeto de sistema bancário desenvolvido em **JavaScript** utilizand
 ![Image](https://github.com/user-attachments/assets/e47d4a2b-aebe-4a94-9ebd-7aea46c524e3)
 ![Image](https://github.com/user-attachments/assets/7c088f50-e18f-4349-b1bb-5f63f78f12bf)
 ![Image](https://github.com/user-attachments/assets/d25f382d-a2e7-46ef-b4d6-b3552c7982cc)
+
+![Image](https://github.com/user-attachments/assets/90353265-6538-4808-8c14-faef49f6f1df)
+![Image](https://github.com/user-attachments/assets/0ca76cf2-5ed5-43c0-8ecc-ea8f8bdfd7b1)
